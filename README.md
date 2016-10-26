@@ -86,7 +86,44 @@ Open the GitHub/Beanstalk/BitBucket web page of the current git repository:
 	github
 	beanstalk
 	bitbucket
+	
+Git checkouts
 
+	gcd	develop
+	gcm	master
+	gcp	production
+	
+Git merges
+
+	gmd	develop
+	gmm	master
+	gmp	production
+	
+Git push origins
+
+	gpd	develop
+	gpm	master
+	gpp	production
+	
+Git pull origins
+
+	gpld	develop
+	gplm	master
+	gplp	production
+
+### Webs - Folders
+
+Go to folder /Development
+	
+	dev
+	
+Go to folder /Development/Projects
+
+	p
+	
+Go to folder /Development/Projects/webs-vagrant-webs-lamp-solr/sites
+
+	sites
 
 ### Networking
 
