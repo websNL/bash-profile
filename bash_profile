@@ -141,6 +141,14 @@ alias gpd='git push origin develop'
 alias gpm='git push origin master'
 alias gpp='git push origin production'
 
+alias gcd='git checkout develop'
+alias gcm='git checkout master'
+alias gcp='git checkout production'
+
+alias gmd='git merge develop'
+alias gmm='git merge master'
+alias gmp='git merge production'
+
 # View git repository online.
 github(){
     URL=$(git remote -v | grep github.com | grep fetch | head -1 | awk '{print $2}' | sed 's/git:/http:/g')
