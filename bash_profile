@@ -130,6 +130,15 @@ alias urldecode='python -c "import sys, urllib as ul; print ul.unquote_plus(sys.
 alias gl="git log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 alias gll="git log --graph --full-history --all --color"
 
+# Git commands
+
+alias gpld='git pull origin develop'
+alias gplm='git pull origin master'
+alias gplp='git pull origin production'
+
+alias gpd='git push origin develop'
+alias gpm='git push origin master'
+alias gpp='git push origin production'
 
 # View git repository online.
 github(){
