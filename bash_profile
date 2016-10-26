@@ -100,6 +100,7 @@ alias vgb='cd ~/Vagrant\ Boxes'
 alias dev='cd ~/Development'
 alias exp='cd ~/Development/Experiments'
 alias p='cd ~/Development/Projects'
+alias sites='cd ~/Development/Projects/webs-vagrant-webs-lamp-solr/sites'
 
 # Removes all .DS_Store files.
 alias remove_ds="find . -type f -name '*.DS_Store' -ls -delete"
