@@ -68,6 +68,10 @@ Generate a random password salt with a given length or a default length of 32 if
 Generate a random password:
 
 	password
+	
+Sudo nano hostfile:
+	
+	snh
 
 ### Git
 
