@@ -125,6 +125,9 @@ alias flush_dns='dscacheutil -flushcache'   # Flush out the DNS Cache
 # Decode a url
 alias urldecode='python -c "import sys, urllib as ul; print ul.unquote_plus(sys.argv[1])"'
 
+# Sudo nano Hostfile
+alias snh='sudo nano /private/etc/hosts'
+
 # Git
 
 # Nice git log
