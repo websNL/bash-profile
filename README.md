@@ -93,21 +93,21 @@ Open the GitHub/Beanstalk/BitBucket web page of the current git repository:
 	
 Git checkouts
 
-	gcd	develop
-	gcm	master
-	gcp	production
+	gcd		develop
+	gcm		master
+	gcp		production
 	
 Git merges
 
-	gmd	develop
-	gmm	master
-	gmp	production
+	gmd		develop
+	gmm		master
+	gmp		production
 	
 Git push origins
 
-	gpd	develop
-	gpm	master
-	gpp	production
+	gpd		develop
+	gpm		master
+	gpp		production
 	
 Git pull origins
 
