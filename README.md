@@ -114,6 +114,10 @@ Git pull origins
 	gpld	develop
 	gplm	master
 	gplp	production
+	
+Git status
+
+	gs
 
 ### Webs - Folders
 
@@ -127,7 +131,7 @@ Go to folder /Development/Projects
 	
 Go to folder /Development/Projects/webs-vagrant-webs-lamp-solr/sites
 
-	sites
+	sites  or  s
 
 ### Networking
 
