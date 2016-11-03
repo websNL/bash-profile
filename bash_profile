@@ -153,6 +153,8 @@ alias gmd='git merge develop'
 alias gmm='git merge master'
 alias gmp='git merge production'
 
+alias gs='git status'
+
 # View git repository online.
 github(){
     URL=$(git remote -v | grep github.com | grep fetch | head -1 | awk '{print $2}' | sed 's/git:/http:/g')
