@@ -118,6 +118,14 @@ Git pull origins
 Git status
 
 	gs
+	
+Git diff
+	
+	gd
+
+Git add .
+	
+	ga
 
 ### Webs - Folders
 
