@@ -154,6 +154,8 @@ alias gmm='git merge master'
 alias gmp='git merge production'
 
 alias gs='git status'
+alias gd='git diff'
+alias ga='git add .'
 
 # View git repository online.
 github(){
